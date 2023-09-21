@@ -1,54 +1,19 @@
-![Awesome Portfolio Website](./readme_assets/banner_apw.png)
+About Me
+Hello! 👋 I'm Kirstin Brooker, and I'm thrilled to share a bit about myself with you.
 
-<div align="center">
+Background
+For the past 4 years, I've had the incredible privilege of working as a nanny, helping families create nurturing environments for their children. It's been a rewarding journey filled with moments of joy, learning, and growth. My role as a nanny has taught me the importance of patience, empathy, and adaptability. These skills, I believe, will serve as a strong foundation as I embark on a new adventure in the world of technology.
 
-<a href="https://github.com/smaranjitghose/awesome-portfolio-websites"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
-<a href="https://github.com/smaranjitghose/awesome-portfolio-websites"><img src="https://img.shields.io/badge/Built%20by-developers%20%3C%2F%3E-0059b3"></a>
-<a href="https://github.com/smaranjitghose/awesome-portfolio-websites"><img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=yellow"></a>
-<a href="https://github.com/smaranjitghose/"><img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?v=103"></a>
-<a href="https://github.com/smaranjitghose/awesome-portfolio-websites/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg?v=103"></a>
+Transition to Tech
+While I've enjoyed my time as a nanny, I've always had a deep curiosity about the tech industry. The dynamic nature of technology and its potential to shape the future have always fascinated me. I've spent my spare time exploring various aspects of technology, from coding to understanding the latest fintech innovations.
 
-<a href="https://github.com/smaranjitghose/awesome-portfolio-websites/graphs/contributors"><img src="https://img.shields.io/github/contributors/smaranjitghose/awesome-portfolio-websites?color=brightgreen"></a>
-<a href="https://github.com/smaranjitghose/awesome-portfolio-websites/stargazers"><img src="https://img.shields.io/github/stars/smaranjitghose/awesome-portfolio-websites?color=0059b3"></a>
-<a href="https://github.com/smaranjitghose/awesome-portfolio-websites/network/members"><img src="https://img.shields.io/github/forks/smaranjitghose/awesome-portfolio-websites?color=yellow"></a>
-<a href="https://github.com/smaranjitghose/awesome-portfolio-websites/issues"><img src="https://img.shields.io/github/issues/smaranjitghose/awesome-portfolio-websites?color=0059b3"></a>
-<a href="https://github.com/smaranjitghose/awesome-portfolio-websites/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/smaranjitghose/awesome-portfolio-websites?color=yellow"></a>
-<a href="https://github.com/smaranjitghose/awesome-portfolio-websites/pulls"><img src="https://img.shields.io/github/issues-pr/smaranjitghose/awesome-portfolio-websites?color=brightgreen"></a>
-<a href="https://github.com/smaranjitghose/awesome-portfolio-websites/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/smaranjitghose/awesome-portfolio-websites?color=0059b3"></a>
+Interest in Fintech
+One area that particularly excites me is financial technology, or fintech. The intersection of finance and technology has the power to revolutionize the way we manage money, make investments, and plan for our financial futures. I'm eager to contribute to this exciting field by leveraging my skills and experiences.
 
-</div>
+GitHub Journey
+I've created this GitHub repository as a way to document my journey into the tech world. Here, you'll find my projects, experiments, and learning resources. I'm passionate about continuous learning and growth, and I'm excited to share my progress with the GitHub community.
 
-A community maintained open source project aimed at making personal portfolio for researchers, developers and analysts simple, fast and less cumbersome. We make sure you have a full-fledged website to showcase your work while you can spend time on your learning and innovative endeavours.
-
-## A sneak peek into what we have here🙈 :
-
-### Home Page:
-
-<p align="center"><img src="./readme_assets/Home_Page.gif"></p>
-
-### Experience Page:
-
-<p align="center"><img src="./readme_assets/Experience_Page.gif"></p>
-
-### Project Page:
-
-<p align="center"><img src="./readme_assets/Project_Page.gif"></p>
-
-### Research Page:
-
-<p align="center"><img src="./readme_assets/Research_Page.gif"></p>
-
-### Education Page:
-
-<p align="center"><img src="./readme_assets/Education_Page.gif"></p>
-
-## How to use this?🛠
-
-[Check out our awesome Documentation]
-
-## Contribution Guidelines🏗
-
-Are we missing any of your favorite features, which you think you can add to it❓ We invite you to contribute to this project and improve it further.
+Thank you for visiting my portfolio repository! I hope you find it informative and engaging. If you have any suggestions or feedback, please let me know.
                    
 
 
